@@ -1,1 +1,1 @@
-# DEV-Blogs
+# DEV Blogs
