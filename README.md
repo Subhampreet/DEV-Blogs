@@ -1,6 +1,6 @@
 <img src="https://github.com/Subhampreet/DEV-Blogs/blob/main/public/diversity.png" />
 
-<h1 align="center">The Ultimate Lis of Developer Blogs</h1>
+<h1 align="center">The Ultimate List of Developer Blogs</h1>
 
 <img src="https://github.com/Subhampreet/DEV-Blogs/blob/main/public/illustration_design_in_progress_tubik.png" width="50%" align="right" />
 
