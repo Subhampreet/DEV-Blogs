@@ -11,6 +11,15 @@ Nobody really wants to dedicate large chunks of their time to continued educatio
 If you're part of team "Never Stop Learning", check out some of our favorite developer blogs:
 
 
+### Next JS 
+- [Client-Side Routing in Next JS](https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/)
+- [Authentication In Next.js With Auth0](https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/)
+
+### React JS
+
+### JavaScript
+
+### Python
 
 
 
