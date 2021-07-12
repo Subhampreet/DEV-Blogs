@@ -16,10 +16,16 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 - [Authentication In Next.js With Auth0](https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/)
 
 ### React JS
+- [React Cheat sheet (2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd)
 
 ### JavaScript
 
 ### Python
+
+
+### Design Resources
+- [40+ Awesome Illustrations Resources For Your Web Projects](https://dev.to/kiranrajvjd/40-awesome-illustrations-resources-for-your-web-projects-2fea)
+- [Ultimate Resources for Front-End Development in 2021 ](https://dev.to/rahxuls/free-ultimate-resources-for-front-end-development-in-2021-giveaway-3838)
 
 
 
