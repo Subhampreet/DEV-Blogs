@@ -1,4 +1,3 @@
-<img src="https://github.com/Subhampreet/DEV-Blogs/blob/main/public/diversity.png" />
 
 <h1 align="center">The Ultimate List of Developer Blogs</h1>
 
