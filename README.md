@@ -11,13 +11,27 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 
 
 ### Next JS 
-- [Client-Side Routing in Next JS](https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/)
-- [Authentication In Next.js With Auth0](https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/)
-- [Migrate JQuery to Next JS](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)
+
+| Name                                                                              | Publisher                                         | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+| [Client-Side Routing in Next JS](https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/) | Smashing Magazine |
+| [Authentication In Next.js With Auth0](https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/) | Smashing Magazine |
+| [Migrate JQuery to Next JS](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/) | Smashing Magazine |
+
 
 
 ### React JS
-- [React Cheat sheet (2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd)
+
+| Name                                                                              | Publisher                                         | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+| [React Cheat sheet (2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd) | Dev.to |
+
+### Docker
+
+| Name                                                                              | Publisher                                         | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+| [The Docker Handbook - 2021](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-docker-handbook/amp/) | Free Code Camp |
+
 
 ### JavaScript
 
