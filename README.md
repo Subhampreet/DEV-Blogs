@@ -22,9 +22,14 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 
 ### React JS
 
-| Name                                                                              | Publisher                                         | 
+| Name                                                                              | Publisher / Author                                         | 
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
 | [React Cheat sheet (2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd) | Dev.to |
+| [Kitze](https://kitze.io/) | Kitze |
+| [Ibrahima Ndaw](https://www.ibrahima-ndaw.com/) | Ibrahima Ndaw |
+| [Rado's Blog)](https://blog.rstankov.com/) | Rado's Blog |
+| [Monica Powell Blog](https://aboutmonica.com/writing/) | Monika Powell |
+| [Aman Mittal Blog](https://amanhimself.dev/blog/) | Aman Mittal |
 
 ### Docker
 
