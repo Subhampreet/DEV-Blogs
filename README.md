@@ -38,6 +38,10 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 | [The Docker Handbook - 2021](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-docker-handbook/amp/) | Free Code Camp |
 
 
+### DSA
+
+- [How to Study for Data Structures and Algorithms](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
+
 ### JavaScript
 
 ### Python
