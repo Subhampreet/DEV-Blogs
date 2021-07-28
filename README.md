@@ -30,7 +30,7 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 | [Rado's Blog)](https://blog.rstankov.com/) | Rado's Blog |
 | [Monica Powell Blog](https://aboutmonica.com/writing/) | Monika Powell |
 | [Aman Mittal Blog](https://amanhimself.dev/blog/) | Aman Mittal |
-| [https://www.freecodecamp.org/news/react-beginner-handbook/](https://www.freecodecamp.org/news/react-beginner-handbook/) | Free Code Camp |
+| [React Beginner's Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/) | Free Code Camp |
 
 
 ### Docker
