@@ -31,7 +31,7 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 | [Monica Powell Blog](https://aboutmonica.com/writing/) | Monika Powell |
 | [Aman Mittal Blog](https://amanhimself.dev/blog/) | Aman Mittal |
 | [React Beginner's Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/) | Free Code Camp |
-| [uilding React App using Rails API](https://hackernoon.com/building-a-react-app-with-rails-api-nv7537w1) | HackerNoon |
+| [Building React App using Rails API](https://hackernoon.com/building-a-react-app-with-rails-api-nv7537w1) | HackerNoon |
 
 
 
