@@ -33,7 +33,11 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 | [React Beginner's Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/) | Free Code Camp |
 | [Building React App using Rails API](https://hackernoon.com/building-a-react-app-with-rails-api-nv7537w1) | HackerNoon |
 
+### Git and GitHub
 
+| Name                                                                              | Publisher / Author                                         | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+| [Sync a Github Repo:How To Ensure Your GitHub Fork Is Up To Date](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/update-github-repositories-with-changes-by-others/) | Earth Data Science |
 
 ### Docker
 
