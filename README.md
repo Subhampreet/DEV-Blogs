@@ -22,18 +22,20 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 
 ### React JS
 
-| Name                                                                              | Publisher / Author                                         | 
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
-| [React Cheat sheet (2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd) | Dev.to |
-| [Kitze](https://kitze.io/) | Kitze |
-| [Ibrahima Ndaw](https://www.ibrahima-ndaw.com/) | Ibrahima Ndaw |
-| [Rado's Blog)](https://blog.rstankov.com/) | Rado's Blog |
-| [Monica Powell Blog](https://aboutmonica.com/writing/) | Monika Powell |
-| [Aman Mittal Blog](https://amanhimself.dev/blog/) | Aman Mittal |
-| [React Beginner's Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/) | Free Code Camp |
-| [Building React App using Rails API](https://hackernoon.com/building-a-react-app-with-rails-api-nv7537w1) | HackerNoon |
-| [Authorization and Authentication in React App](https://dev.to/aspittel/build-a-react-app-with-authorization-and-authentication-1mha) | Dev.to |
-| [Using Axios With React: The Definitive Guide (2021)](https://www.freecodecamp.org/news/how-to-use-axios-with-react/) | Free Code Camp |
+|Sl No| Name                                                                              | Publisher / Author                                         | 
+|------| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+| 1 | [React Cheat Sheet (2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd) | Dev.to |
+| 2 | [Kitze - A definitive blog on React](https://kitze.io/) | Kitze |
+| 3 | [Ibrahima Ndaw](https://www.ibrahima-ndaw.com/) | Ibrahima Ndaw |
+| 4 | [Rado's Blog](https://blog.rstankov.com/) | Rado's Blog |
+| 5 | [Monica Powell Blog](https://aboutmonica.com/writing/) | Monika Powell |
+| 6 | [Aman Mittal Blog](https://amanhimself.dev/blog/) | Aman Mittal |
+| 7 | [React Beginner's Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/) | Free Code Camp |
+| 8 | [Building React App using Rails API](https://hackernoon.com/building-a-react-app-with-rails-api-nv7537w1) | HackerNoon |
+| 9 | [Authorization and Authentication in React App](https://dev.to/aspittel/build-a-react-app-with-authorization-and-authentication-1mha) | Dev.to |
+| 10 | [Using Axios With React: The Definitive Guide (2021)](https://www.freecodecamp.org/news/how-to-use-axios-with-react/) | Free Code Camp |
+| 11 | [CRUD Operations using React, React Hooks, and Axios](https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/) | Free Code Camp |
+
 
 
 ### Git and GitHub
