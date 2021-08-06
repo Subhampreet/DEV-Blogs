@@ -32,6 +32,9 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 | [Aman Mittal Blog](https://amanhimself.dev/blog/) | Aman Mittal |
 | [React Beginner's Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/) | Free Code Camp |
 | [Building React App using Rails API](https://hackernoon.com/building-a-react-app-with-rails-api-nv7537w1) | HackerNoon |
+| [Authorization and Authentication in React App](https://dev.to/aspittel/build-a-react-app-with-authorization-and-authentication-1mha) | Dev.to |
+| [Using Axios With React: The Definitive Guide (2021)](https://www.freecodecamp.org/news/how-to-use-axios-with-react/) | Free Code Camp |
+
 
 ### Git and GitHub
 
