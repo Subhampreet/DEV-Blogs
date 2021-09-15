@@ -65,7 +65,11 @@ If you're part of team "Never Stop Learning", check out some of our favorite dev
 
 - [The Vue Handbook: a thorough introduction to Vue.js](https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/)
 
-### Python
+### .NET Framework
+
+| Name                                                                              | Publisher                                         | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+| [Reduce bugs with elmah.io](https://blog.elmah.io/) | Elmah |
 
 
 ### Design Resources
