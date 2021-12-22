@@ -35,7 +35,7 @@ If you're part of team "Never Stop Learning" 🌳, check out some of our favorit
 | 9 | [Authorization and Authentication in React App](https://dev.to/aspittel/build-a-react-app-with-authorization-and-authentication-1mha) | Dev.to |
 | 10 | [Using Axios With React: The Definitive Guide (2021)](https://www.freecodecamp.org/news/how-to-use-axios-with-react/) | Free Code Camp |
 | 11 | [CRUD Operations using React, React Hooks, and Axios](https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/) | Free Code Camp |
-
+| 12 | [Creating a Multi-Filter Function to Filter Out Multiple Attributes Using Javascript](https://betterprogramming.pub/creating-a-multi-filter-function-to-filter-out-multiple-attributes-javascript-react-rails-5aad8e272142) | Medium |
 
 
 ### Git and GitHub
