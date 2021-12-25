@@ -10,7 +10,7 @@ Nobody really wants to dedicate large chunks of their time to continued educatio
 If you're part of team "Never Stop Learning" 🌳, check out some of our favorite developer blogs 🎪:
 
 
-### Next JS 
+###🦔 Next JS 
 
 | Name                                                                              | Publisher                                         | 
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
