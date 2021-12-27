@@ -10,13 +10,13 @@ Nobody really wants to dedicate large chunks of their time to continued educatio
 If you're part of team "Never Stop Learning" 🌳, check out some of our favorite developer blogs 🎪:
 
 
-###🦔 Next JS 
+### 🦔 Next JS 
 
-| Name                                                                              | Publisher                                         | 
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
-| [Client-Side Routing in Next JS](https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/) | Smashing Magazine |
-| [Authentication In Next.js With Auth0](https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/) | Smashing Magazine |
-| [Migrate JQuery to Next JS](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/) | Smashing Magazine |
+| Sl No | Name                                                                              | Publisher                                         | 
+|-------| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+|   1   | [Client-Side Routing in Next JS](https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/) | Smashing Magazine |
+|2| [Authentication In Next.js With Auth0](https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/) | Smashing Magazine |
+|3| [Migrate JQuery to Next JS](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/) | Smashing Magazine |
 
 
 
